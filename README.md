@@ -87,7 +87,7 @@
   <a href="https://leetcode.com/u/samarpratapjnv046/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="40" alt="LeetCode logo" />
 </a>
-<a href="geeksforgeeks.org/user/samarprat4hsk/" target="_blank">
+<a href="[geeksforgeeks.org/user/samarprat4hsk](https://www.geeksforgeeks.org/user/samarprat4hsk/?_gl=1*1m4tsog*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJWbdHHITcG1POyUQyC1VG9ib-Wm9EW6hWVvqv5PLZV4775V99QAXURoCmM0QAvD_BwE&gbraid=0AAAAAC9yBkDLcsjLW_F5iqhaF8zWO477o)" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40" alt="GeeksforGeeks logo" />
 </a>
 
