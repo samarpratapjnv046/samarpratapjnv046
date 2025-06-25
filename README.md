@@ -1,14 +1,14 @@
-<!--- 👋 Hi, I’m @helloankitpandey
-- 👀 I’m interested in ... FullStack Development, Android Development 
-- 🌱 I’m currently learning ... Reactnative
+<!--- 👋 Hi, I’m @samarpratapyadav
+- 👀 I’m interested in ... FullStack Development
+- 🌱 I’m currently learning ...Mobile Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... my acoount 
-- 😄 Pronouns: ... akki
+- 😄 Pronouns: ... samar
 - ⚡ Fun fact: ...
   --->
 
 
-<h1 align="left">Hi there, I'm Ankit Pandey</h1>
+<h1 align="left">Hi there, I'm Samar Pratap Yadav</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm a passionate MERN Stack Developer with a keep interest in building robust and scalable websites.I'm building efficient and user-friendly cross-platform apps with React Native, JavaScript, and TypeScript. Focused on performance, responsive design, and scalable architecture🚀. My goal is to write clean, efficient, and maintainable code that brings ideas to life on the web & mobile apps. Always eager to learn and explore new technologies, I strive to deliver the best user experiences through my projects.</p>
+<p align="left">I'm a passionate MERN Stack Developer with a keep interest in building robust and scalable websites.I'm building efficient and user-friendly apps with React, JavaScript, and TypeScript. Focused on performance, responsive design, and scalable architecture🚀. My goal is to write clean, efficient, and maintainable code that brings ideas to life on the web & mobile apps. Always eager to learn and explore new technologies, I strive to deliver the best user experiences through my projects.</p>
 
 ###
 
@@ -75,13 +75,13 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/helloankit-pandey-/" target="_blank">
+  <a href="https://www.linkedin.com/in/samar-pratap-yadav-2b7385276/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/heloankitpandey" target="_blank">
+<!--   <a href="https://x.com/heloankitpandey" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/helloankitpandey/" target="_blank">
+  </a> -->
+  <a href="https://www.instagram.com/samarpratapjnv046/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <a href="https://codepen.io/Ankit-Pandey-the-looper" target="_blank">
