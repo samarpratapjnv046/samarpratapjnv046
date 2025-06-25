@@ -43,10 +43,11 @@
   <img width="5" />
 <!--   <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"  />
   <img width="5" /> -->
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo" />
+<img width="5" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
 </div>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo" />
-<img width="5" />
+
 
 
 ###
