@@ -87,6 +87,10 @@
   <a href="https://leetcode.com/u/samarpratapjnv046/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="40" alt="LeetCode logo" />
 </a>
+<a href="geeksforgeeks.org/user/samarprat4hsk/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40" alt="GeeksforGeeks logo" />
+</a>
+
 
 <!--   <a href="https://codepen.io/Ankit-Pandey-the-looper" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  />
